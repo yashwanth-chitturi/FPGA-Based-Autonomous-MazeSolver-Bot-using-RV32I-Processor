@@ -136,28 +136,6 @@ The complete design was verified using:
 
 **🎥 Full Demonstration:** https://www.youtube.com/watch?v=Zv05e7HeLQA
 
-# Repository Structure
-
-```
-├── rtl/
-│   ├── Processor
-│   ├── UART
-│   ├── PWM
-│   ├── Sensor Interface
-│   ├── Motor Controller
-│   └── Navigation Logic
-│
-├── testbench/
-│
-├── simulation/
-│
-├── constraints/
-│
-└── README.md
-```
-
----
-
 # Skills Demonstrated
 
 - Computer Architecture
@@ -171,15 +149,6 @@ The complete design was verified using:
 - UART Communication
 - PWM Design
 - Hardware Verification
-
----
-
-# Resume Highlights
-
-- Designed and implemented a **5-stage pipelined RV32I RISC-V processor** on an Altera Cyclone IV FPGA.
-- Developed datapath and control modules supporting real-time sensor interfacing and autonomous navigation.
-- Integrated FPGA processing for motor control and wireless communication.
-- Verified processor functionality using custom RTL testbenches and simulation tools.
 
 ---
 
