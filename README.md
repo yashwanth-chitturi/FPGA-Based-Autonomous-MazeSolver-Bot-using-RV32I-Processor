@@ -128,6 +128,14 @@ The complete design was verified using:
 
 ---
 
+## 🚀 Live Preview
+
+<p align="center">
+<img src="assets/demo.gif" width="700">
+</p>
+
+**🎥 Full Demonstration:** https://www.youtube.com/watch?v=Zv05e7HeLQA
+
 # Repository Structure
 
 ```
